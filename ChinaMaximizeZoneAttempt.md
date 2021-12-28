@@ -1,4 +1,9 @@
-Guide pour Quentin.
+Guide pour Quentin
+
+## Chi-FU le percepteur
+![image](https://user-images.githubusercontent.com/20149493/147529306-46cd5c33-8602-40eb-bfa2-28ba126fba1d.png)
+![image](https://user-images.githubusercontent.com/20149493/147529352-fc9917a6-3a6c-4b7e-8008-aaf2a2ddb2f9.png)
+
 
 J'ai vu que tu fesais ça dans ta base.  
 ![Quentin](https://user-images.githubusercontent.com/20149493/147524457-ab2adc61-9fcd-445e-8723-bc185a7247a7.png)
@@ -95,6 +100,18 @@ Autre sujet. évoluter son fort rapport 64 gold si tu fais passer un percepteur 
 
 
 
+## Cheat code
+![image](https://user-images.githubusercontent.com/20149493/147529667-f0ebf98e-66c5-45b4-8791-8004abbca7f8.png)
+- 25 gold  > 3 gold d'impot
+
+![image](https://user-images.githubusercontent.com/20149493/147530088-c319c795-9ecc-4581-b0dd-88eeed7594fa.png)
+- 230 > 23
+## Pago cheat ?
+- 3 pago = 450 de bois
+- 10 / minutes * 3 = 30 / minutes
+- 10 minutes de jeu = 300 gold gratuit (sans relic)
+- 1H = 1800 gold
+
 # Tactic d'attack
 
 ## Les murs sont over powered
@@ -119,3 +136,35 @@ Tu peux prendre tes ouvriers et faire ça:
 
 Si tu en utilises que un ou deux sur la murail, tu peux même le faire depuis la murail, gentiment.
 
+
+# Stratégie de défense furtive
+
+![image](https://user-images.githubusercontent.com/20149493/147531732-7adf09d9-455e-4a1f-87a2-c728fcf51fd5.png)
+![image](https://user-images.githubusercontent.com/20149493/147531903-309d49de-9938-4456-bd62-e94d08f75266.png)
+
+## Example 
+![image](https://user-images.githubusercontent.com/20149493/147532152-569d4b10-6710-4836-bdff-ffefeb5f9166.png)
+- Ici l'idée est de faire croire que l'attaquant à percer les murs par choix. Alors qu'on le laisse rentrer (soit avec un brèche précédent soit une qu'il crée (mais faut aller vite) 
+  -  Les canons et scorpions on 12 de portées. C'est vraiment loin. Ici, le but de la maneuvre et de mettre le cannon à 11 de porté du trou. Pour que l'attaquand perdre 3-6 unités avant de comprendre qu'il y a un canon.
+  -  Les barricades sont essentiels car elle évite que tout l'armée rentre d'un coup et fonce sur les scorpions en ambuscade. Le but est de les groupés en utilisant le trou pour les nid d'abeilles
+  -  Les nid d'abeilles ont une très bonne zones et son beaucoup moins visible qu'une cataputle jusqu'à ce qu'elle tire.
+    -  Il faut attendre que l'armée rentre (1-5 seconds) avant de les déclanchers. (si non automatique)
+    -  L'autre avantage est que une fois le snids détectés, l'armée n'a que deux choix. Trouver un moyen de percer et vite ou reculé. Et c'est stressant du à l'effet graphique des bombes qui tombe sur une zone qui a été restrinte pas intention. 
+      - Si l'attaquand fonce, il doit être focus pour 2 minutes minimum (le moment ou jamais de lancer un troupe sur un camp si disponible)
+      - Si il recule, il recommence à zéro car, la peur de perdre des unitées laisse le temps de reboucher le troup. (PS: je répare par le dessu avec un ouvrier pour avoir le bonus protection des murs si possible.)  
+
+
+
+
+
+
+----------------
+
+Est rentable un chamaux comparer à l'économie:
+![image](https://user-images.githubusercontent.com/20149493/147530495-ee02e50a-abd0-4670-a757-46d9f948bb15.png)
+- 30 seconds aller-retour (1 minutes) = 25 Gold (/par minutes)
+- 4 minutes aller-retour = 230 gold = 57 gold (/par minutes)
+
+- 1 Relique = 100 gold/minutes  (sans update)
+- 1 Control = 48 gold/minutes  (sans update)
+- 1 miner =  30-45 gold/minutes  (36s so loin, 18 si proche pour 15)
