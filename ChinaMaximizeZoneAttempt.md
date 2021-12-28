@@ -158,7 +158,11 @@ Si tu en utilises que un ou deux sur la murail, tu peux même le faire depuis la
 
 
 
+----------------------
 
+## Petit truc et assuce Chinois
+![image](https://user-images.githubusercontent.com/20149493/147533696-c69d428c-7f41-4a3c-a887-4d72131ce1d0.png)
+Les chateaux et les nids ont un porté de 9.6 ... Mais si tu viste le sol du chateau avec l'explosion tu as une porté de 10-11 ;)
 
 ----------------
 
