@@ -1,8 +1,10 @@
 Guide pour Quentin
 
 ## Chi-FU le percepteur
-![image](https://user-images.githubusercontent.com/20149493/147529306-46cd5c33-8602-40eb-bfa2-28ba126fba1d.png)
-![image](https://user-images.githubusercontent.com/20149493/147529352-fc9917a6-3a6c-4b7e-8008-aaf2a2ddb2f9.png)
+
+ . | .     
+-|-  
+![image](https://user-images.githubusercontent.com/20149493/147532951-f18ad97d-686c-491c-9c87-155780b01c6a.png) | ![image](https://user-images.githubusercontent.com/20149493/147529352-fc9917a6-3a6c-4b7e-8008-aaf2a2ddb2f9.png)  
 
 
 J'ai vu que tu fesais ça dans ta base.  
